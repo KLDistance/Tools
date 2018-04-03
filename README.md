@@ -1,2 +1,2 @@
 # Tools
-Containing some small articles which is still being tested
+Containing some small articles which are still being tested
